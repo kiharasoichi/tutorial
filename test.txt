@@ -3,3 +3,5 @@ wet
 wet
 wet
 ssssssss
+サルでもわかるGitコマンド
+add 変更をインデックスに登録する
